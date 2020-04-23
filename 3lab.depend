@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1587473418 source:c:\users\leonid\desktop\3lab\fizlico.cpp
+	"fizlico.h"
+
+1587478684 source:c:\users\leonid\desktop\3lab\main.cpp
+	"fizlico.h"
+	"programmist.h"
+	"zakazchik.h"
+	"sotrudnik.h"
+	"rukovoditel.h"
+	<iostream>
+
+1587477158 source:c:\users\leonid\desktop\3lab\programmist.cpp
+	"programmist.h"
+
+1587478883 source:c:\users\leonid\desktop\3lab\rukovoditel.cpp
+	"rukovoditel.h"
+
+1587473446 source:c:\users\leonid\desktop\3lab\sotrudnik.cpp
+	"sotrudnik.h"
+
+1587476942 source:c:\users\leonid\desktop\3lab\zakazchik.cpp
+	"zakazchik.h"
+
+1587476825 c:\users\leonid\desktop\3lab\fizlico.h
+	<string>
+
+1587477208 c:\users\leonid\desktop\3lab\programmist.h
+	"sotrudnik.h"
+	<string>
+	<iostream>
+
+1587476942 c:\users\leonid\desktop\3lab\zakazchik.h
+	"fizlico.h"
+	<string>
+	<iostream>
+
+1587476825 c:\users\leonid\desktop\3lab\sotrudnik.h
+	"fizlico.h"
+	<string>
+
+1587477658 c:\users\leonid\desktop\3lab\rukovoditel.h
+	"sotrudnik.h"
+	<string>
+	<iostream>
+
+1587632986 source:c:\users\leonid\desktop\Лабы\3lab\main.cpp
+	"fizlico.h"
+	"programmist.h"
+	"zakazchik.h"
+	"sotrudnik.h"
+	"rukovoditel.h"
+	<iostream>
+
+1587632115 c:\users\leonid\desktop\Лабы\3lab\fizlico.h
+	<string>
+	<iostream>
+
+1587632468 c:\users\leonid\desktop\Лабы\3lab\programmist.h
+	"sotrudnik.h"
+	<string>
+	<iostream>
+
+1587632024 c:\users\leonid\desktop\Лабы\3lab\sotrudnik.h
+	"fizlico.h"
+	<string>
+
+1587476942 c:\users\leonid\desktop\Лабы\3lab\zakazchik.h
+	"fizlico.h"
+	<string>
+	<iostream>
+
+1587632468 c:\users\leonid\desktop\Лабы\3lab\rukovoditel.h
+	"sotrudnik.h"
+	<string>
+	<iostream>
+
+1587632917 source:c:\users\leonid\desktop\Лабы\3lab\programmist.cpp
+	"programmist.h"
+
+1587632770 source:c:\users\leonid\desktop\Лабы\3lab\rukovoditel.cpp
+	"rukovoditel.h"
+
+1587632031 source:c:\users\leonid\desktop\Лабы\3lab\sotrudnik.cpp
+	"sotrudnik.h"
+
+1587632917 source:c:\users\leonid\desktop\Лабы\3lab\zakazchik.cpp
+	"zakazchik.h"
+
+1587632115 source:c:\users\leonid\desktop\Лабы\3lab\fizlico.cpp
+	"fizlico.h"
+
